@@ -1,0 +1,43 @@
+.icone-bg-colour{
+    background-color: lightgray;
+}
+.Slider-button{
+    margin-left: 145px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: rgba(237, 6, 6, 0.801);
+}
+.card-button{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background-color:  rgba(237, 6, 6, 0.801);
+}
+.footer-section{
+    border: 10px solid rgba(0, 0, 255, 0.263);
+    border-radius: 30px;
+}
+.container{
+    background-color: rgb(2, 83, 86);
+    border: 10px solid rgb(0, 0, 20);
+    border-radius: 15px;
+}
+.text-clr{
+    color: whitesmoke;
+}
+.name-box{
+    border: 5px solid whitesmoke;
+    border-radius: 15px;
+}
+.email-box{
+    border: 5px solid whitesmoke;
+    border-radius: 15px;
+}
+.Message-box{
+    height: 100px;
+    width: 300px;
+    border: 5px solid whitesmoke;
+    border-radius: 15px;
+}
