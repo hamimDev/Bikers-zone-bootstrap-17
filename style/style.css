@@ -1,5 +1,5 @@
 body{
-    overflow-x: hidden;
+    overflow-x: hidden ;
 }
 .icone-bg-colour{
     background-color: lightgray;
@@ -43,4 +43,19 @@ body{
     width: 100%;
     border: 5px solid whitesmoke;
     border-radius: 15px;
+}
+.last-btn{
+    background-color:red;
+    border: 5px solid red;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 700;
+}
+.last-btn:hover{
+    background-color:green;
+    border: 5px solid green;
+    border-radius: 10px;
+    margin-bottom: 15px;
 }
