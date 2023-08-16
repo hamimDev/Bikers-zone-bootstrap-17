@@ -1,3 +1,6 @@
+body{
+    overflow-x: hidden;
+}
 .icone-bg-colour{
     background-color: lightgray;
 }
@@ -36,8 +39,8 @@
     border-radius: 15px;
 }
 .Message-box{
-    height: 100px;
-    width: 300px;
+    height: 15%;
+    width: 100%;
     border: 5px solid whitesmoke;
     border-radius: 15px;
 }
